@@ -1,4 +1,4 @@
-cat > CONTRIBUTING.md << 'EOF'
+
 # Contributing to NovaDeFi
 
 Welcome! NovaDeFi is part of the Stellar Wave Program. Here's how to get started:
@@ -18,5 +18,4 @@ Welcome! NovaDeFi is part of the Stellar Wave Program. Here's how to get started
 - Every contract function must have a corresponding test
 
 ## Questions?
-Open a GitHub Discussion or reach out on the Stellar Discord.
-EOF
+Open a GitHub Discussion 
