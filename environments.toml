@@ -1,0 +1,9 @@
+cat > environments.toml << 'EOF'
+[development]
+network = "testnet"
+
+[testnet]
+network = "testnet"
+rpc_url = "https://soroban-testnet.stellar.org:443"
+network_passphrase = "Test SDF Network ; September 2015"
+EOF
